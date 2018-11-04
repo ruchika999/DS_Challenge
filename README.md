@@ -34,9 +34,9 @@ What's the model performance?
 --------------------------------------------------------------
 What is the complexity?
 
-Limited to Linear relationships between variables
-Large Sample Size(here testing data set is larger than training set)
-Independent Observations Required
+Limited to Linear relationships between variables.
+Large Sample Size(here testing data set is larger than training set).
+Independent Observations Required.
 
 --------------------------------------------------------------
 
